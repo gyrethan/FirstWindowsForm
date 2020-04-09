@@ -24,7 +24,7 @@ namespace firstprogram
         public Form1()
         {
             InitializeComponent();
-            sPlayer = new SoundPlayer("spagettScareSound.wav");
+            sPlayer = new SoundPlayer("sound.wav");
             sPlayer2 = new SoundPlayer("intenseMusic.wav");
             sPlayer3 = new SoundPlayer("awkwardContact.wav");
 
